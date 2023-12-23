@@ -9,7 +9,7 @@ const Carousel = ({children}) => {
 
     const handleNext = () => {
       if (counter !== content.length) {
-        // setCounter(counter + 1);
+        setCounter(counter + 1);
       } else {
         setCounter(1);
       }
@@ -49,7 +49,7 @@ const Carousel = ({children}) => {
         >
           {children.map((item, index) => (
             <div 
-              className={`${counter - 1 === index ? "show" : "not-show"} h-[90vh]`}
+              className={`${counter - 1 === index ? "show" : "not-show"}`}
               key={index}
             >
               {item}
