@@ -46,37 +46,37 @@ const Servies = () => {
         image: teeth1,
         title: "Teeth Whitening",
         description:
-          "Revitalize your smile with professional teeth whitening. Achieve a brighter, confident look through safe, effective treatments for a radiant, sparkling appearance",
+          "Revitalize your smile with professional teeth whitening. Achieve a brighter, confident look through safe, effective treatments for a radiant, e",
       },
       {
         image: teeth2,
-        title: "Teeth Whitening",
+        title: "Teeth Checkup",
         description:
-          "Revitalize your smile with professional teeth whitening. Achieve a brighter, confident look through safe, effective treatments for a radiant, sparkling appearance",
+          "Revitalize your smile with professional teeth whitening. Achieve a brighter, confident look through safe, effective treatments for a radiant, ",
       },
       {
         image: teeth3,
-        title: "Teeth Whitening",
+        title: "Teeth Implants",
         description:
-          "Revitalize your smile with professional teeth whitening. Achieve a brighter, confident look through safe, effective treatments for a radiant, sparkling appearance",
+          "Revitalize your smile with professional teeth whitening. Achieve a brighter, confident look through safe, effective treatments for a radiant,",
       },
       {
         image: teeth4,
-        title: "Teeth Whitening",
+        title: "Orthodontics",
         description:
-          "Revitalize your smile with professional teeth whitening. Achieve a brighter, confident look through safe, effective treatments for a radiant, sparkling appearance",
+          "Revitalize your smile with professional teeth whitening. Achieve a brighter, confident look through safe, effective treatments for a radiant,",
       },
       {
         image: teeth5,
-        title: "Teeth Whitening",
+        title: "Dental Crown",
         description:
-          "Revitalize your smile with professional teeth whitening. Achieve a brighter, confident look through safe, effective treatments for a radiant, sparkling appearance",
+          "Revitalize your smile with professional teeth whitening. Achieve a brighter, confident look through safe, effective treatments for a radiant,",
       },
       {
         image: teeth6,
-        title: "Teeth Whitening",
+        title: "Dental Filling",
         description:
-          "Revitalize your smile with professional teeth whitening. Achieve a brighter, confident look through safe, effective treatments for a radiant, sparkling appearance",
+          "Revitalize your smile with professional teeth whitening. Achieve a brighter, confident look through safe, effective treatments for a radiant,",
       },
     ];
 

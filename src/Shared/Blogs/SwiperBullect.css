@@ -1,0 +1,8 @@
+.swiper-pagination-clickable .swiper-pagination-bullet {
+    transform: translateY(20px); 
+}
+
+.swiper-pagination{
+    position: relative !important;
+   height: 30px;
+}

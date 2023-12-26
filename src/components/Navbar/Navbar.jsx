@@ -103,8 +103,8 @@ const Navbar = () => {
             </ul>
             <div className=" hidden xl:block xl:flex items-center gap-10">
               <div className="flex items-center gap-6">
-                <div className="p-[7px]  bg-[#4fa8e434] cursor-pointer rounded-full">
-                  <span className="animate-ping right-[480px] top-[27px] absolute inline-flex  h-8 w-8 rounded-full  bg-sky-400 opacity-40"></span>
+                <div className="p-[7px] relative  bg-[#4fa8e434] cursor-pointer rounded-full">
+                  <span className="animate-ping -translate-y-1 -translate-x-1 absolute inline-flex  h-8 w-8 rounded-full  bg-sky-400 opacity-40"></span>
                   <LiaPhoneSolid className="bg-[#4FA9E4] text-white w-[30px] h-[30px] p-1 rounded-full" />
                 </div>
                 <p className="text-[#8e8e8e]">(+880)1745395942</p>
