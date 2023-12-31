@@ -42,14 +42,14 @@ const Carousel = ({children}) => {
       return () => clearInterval(interval);
     });
     return (
-      <div className="App">
+      <div className="App ">
         <div
-          className="slide"
+          className="slide "
           
         >
           {children.map((item, index) => (
             <div 
-              className={`${counter - 1 === index ? "show" : "not-show"}`}
+              className={`${counter - 1 === index ? "show" : "not-show "}`}
               key={index}
             >
               {item}

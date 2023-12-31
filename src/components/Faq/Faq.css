@@ -1,0 +1,17 @@
+.Mui-expanded .MuiButtonBase-root {
+    background-color: #49AEE9;
+    color: white;
+}
+.Mui-expanded .MuiSvgIcon-fontSizeMedium{
+    color: white !important;
+}
+
+.MuiPaper-root{
+    border-radius:5px !important;
+}
+.Mui-expanded{
+    border-radius:5px !important;
+}
+.MuiAccordionSummary-root{
+    border-radius:5px !important;
+}

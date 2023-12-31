@@ -35,7 +35,7 @@ const BestOfBest = () => {
       <div className="flex-1">
         <img src={feamleDestrist} className="rounded-md" alt="" />
       </div>
-      <div className="flex-1 space-y-4">
+      <div className="flex-1 space-y-4 mt-6 md:mt-0">
         <h4 className="text-[#4EAAE5] font-semibold text-lg">
           Best Of The Best
         </h4>
@@ -99,7 +99,7 @@ const BestOfBest = () => {
           </Box>
         </div>
         <div>
-          <button className="bg-[#4FA9E4] px-7 hover:bg-transparent hover:outline hover:text-[#8e8e8e] hover:outline-[#4FA9E4] outline-1 transition-all ease-in-out duration-300 py-3 text-white rounded-full text-sm font-semibold ">
+          <button className="bg-[#4FA9E4] px-9 hover:bg-transparent hover:outline hover:text-[#8e8e8e] hover:outline-[#4FA9E4] outline-1 transition-all ease-in-out duration-300 py-3 text-white rounded-full text-sm font-semibold ">
             Learn More
           </button>
         </div>

@@ -10,7 +10,7 @@ const Banner = () => {
   return (
     <Carousel>
       <div
-        className=" bg-no-repeat py-28 md:py-48 flex bg-black/50 bg-blend-overlay items-center bg-center   bg-cover"
+        className="bg-no-repeat  py-28 md:py-48 flex bg-black/50 bg-blend-overlay items-center bg-center   bg-cover"
         style={{ backgroundImage: `url(${slide1})` }}
       >
         <div className="w-[1280px] mx-auto px-3">
@@ -27,7 +27,7 @@ const Banner = () => {
       </div>
 
       <div
-        className="bg-cover py-28 md:py-48 flex items-center bg-no-repeat bg-black/50 bg-blend-overlay "
+        className="bg-cover py-28  md:py-48 flex items-center bg-no-repeat bg-black/50 bg-blend-overlay "
         style={{ backgroundImage: `url(${slide2})` }}
       >
         <div className="w-[1280px] mx-auto px-3">
@@ -42,7 +42,7 @@ const Banner = () => {
         </div>
       </div>
       <div
-        className="bg-cover py-28 flex md:py-48 items-center bg-no-repeat bg-black/50 bg-blend-overlay "
+        className="bg-cover py-28  flex md:py-48 items-center bg-no-repeat bg-black/50 bg-blend-overlay "
         style={{ backgroundImage: `url(${slide3})` }}
       >
         <div className="w-[1280px] mx-auto px-3">

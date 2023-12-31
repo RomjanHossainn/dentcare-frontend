@@ -12,7 +12,7 @@ const SingleBlog = ({blog}) => {
           <img src={blog?.image} className="rounded-xl" alt="" />
         </div>
         <div className=" space-y-2 flex-1">
-          <h4 className="text-[#585C60] text-lg font-semibold">
+          <h4 className="text-[#585C60] mt-2 md:mt-0 text-lg font-semibold">
             {blog?.title}
           </h4>
           <p className="text-[#C6C6C6]">Date-{blog?.date}</p>
