@@ -8,7 +8,7 @@ const Contact = () => {
   
   
   return (
-    <section className=" max-w-screen-xl mx-auto px-4 md:px-16 py-12">
+    <section className=" max-w-screen-xl mx-auto px-4 md:px- py-12">
       <SectionTtile
         sortTtile={"CONTACT US"}
         longTtile={"Request an Appointment"}

@@ -1,3 +1,4 @@
+import BestOfBest from "../BestOfBest/BestOfBest";
 import Faq from "../Faq/Faq";
 import AppoinmentForm from "./AppoinmentForm";
 import MakeAppoinment from "./MakeAppoinment";
@@ -11,6 +12,7 @@ const Apoinment = () => {
           <MakeAppoinment></MakeAppoinment>
         </div>
         <OurAproch></OurAproch>
+        <BestOfBest></BestOfBest>
         <Faq></Faq>
       </section>
     );

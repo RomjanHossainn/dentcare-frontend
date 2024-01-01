@@ -82,7 +82,7 @@ const Servies = () => {
 
 
     return (
-      <div className="py-12 max-w-screen-xl mx-auto px-4" id="service">
+      <div className="py-12 max-w-screen-xl z-50 mx-auto px-4" id="service">
         <SectionTtile
           sortTtile={"Our Services"}
           longTtile={"What Service We Offer"}

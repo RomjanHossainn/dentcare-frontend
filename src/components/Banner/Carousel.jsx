@@ -48,7 +48,7 @@ const Carousel = ({children}) => {
           
         >
           {children.map((item, index) => (
-            <div 
+            <div  
               className={`${counter - 1 === index ? "show" : "not-show "}`}
               key={index}
             >

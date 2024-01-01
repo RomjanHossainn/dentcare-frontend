@@ -7,8 +7,6 @@ import './Navabar.css'
 
 const Navbar = () => {
 
-
-
     const [open, setOpen] = useState(false);
   
     const [isDropdownOpen, setDropdownOpen] = useState(false);
@@ -56,7 +54,7 @@ const Navbar = () => {
             >
               <li>
                 <NavLink
-                  to={"/newblogs"}
+                  
                   className="text-[#8e8e8e] flex items-center gap-2 text-[15px] relative hover:text-[#4FA9E4]  after:bg-[#4FA9E4] after:absolute after:h-[2px] after:w-0 after:-bottom-1 after:left-0 hover:after:w-full after:transition-all after:duration-300 cursor-pointer"
                 >
                   New Blogs
